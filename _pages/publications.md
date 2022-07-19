@@ -1,3 +1,9 @@
+---
+permalink: /publications/
+title: "Publications"
+classes: wide
+---
+
 1. Beltramo, G., **Andreeva, R.**, Giarratano, Y., Bernabeu, M. O., Sarkar, R., & Skraba, P. (2021). [Euler characteristic surfaces.](https://arxiv.org/abs/2102.08260) arXiv preprint arXiv:2102.08260.
 
 2. Beltramo, G., Skraba, P., **Andreeva, R.**, Sarkar, R., Giarratano, Y., & Bernabeu, M. O. (2021). [Euler characteristic surfaces.](https://www.aimsciences.org/article/doi/10.3934/fods.2021027) Foundations of Data Science, doi: 10.3934/fods.2021027
