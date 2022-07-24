@@ -5,7 +5,7 @@ classes: wide
 ---
 Recently attended conferences and talks/posters:
 
-- Attended the [Applied topology conference in Bedlewo](https://www.impan.pl/en/activities/banach-center/conferences/22-appliedtop), poster on 'Topological data analysis for papillae classifcaton'
+- Attended the [Applied topology conference in Bedlewo](https://www.impan.pl/en/activities/banach-center/conferences/22-appliedtop), poster on 'Topological data analysis for papillae classificaton'
 - Attended ATMCS10 in Oxford
 - Poster at SINAPSE 2022
 - Talk at [CAI4H conference](https://twitter.com/randreeva1/status/1524507297363505166), cross-CDT conference 2021
