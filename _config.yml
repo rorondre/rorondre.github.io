@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rayna-andreeva/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "ai ai-google-scholar-square ai-fw"
       url: "https://scholar.google.com/citations?user=scwihDYAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
