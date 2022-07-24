@@ -1,5 +1,6 @@
 ---
 title:  "Brain artery trees TDA"
+permalink: /posts/post_1
 categories:
   - Blog
 ---
