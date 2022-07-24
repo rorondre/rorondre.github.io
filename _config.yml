@@ -60,23 +60,29 @@ plugins:
 author:
   name   : "Rayna Andreeva"
   avatar : "/assets/images/bio-photo-final.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student in TDA, previously Masters by Research at University of Edinburgh, data scientist and software engineer at JP Morgan"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/randreeva1"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rayna-andreeva/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=scwihDYAAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rorondre"
+
+footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/randreeva1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/rorondre"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
