@@ -10,4 +10,4 @@ author_profile: true
 ![water](/assets/images/IMG-8871.jpg)
 
 
-![Bulgaria](/assets/images/IMG-8871.jpg)
+![Bulgaria](/assets/images/STA_1077-PANO.jpg)
