@@ -9,8 +9,7 @@ Upcoming travel:
 - 31 July - 5 August: I will be presenting a poster at [TDA week](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, as part of ICIAM 2023
 
 Recently attended conferences and talks/posters:
-
-- November 2022: Poster at 8th Mexican Worskhop on ...
+- May 2023: Talk at EpiCrossBorders symposium, Munich
 - September 2022: Poster at [Topology of Data](https://www.mat.uniroma2.it/Eventi/2022/Topoldata/topoldata.php) in Rome
 - July 2022: Attended the [Applied topology conference in Bedlewo](https://www.impan.pl/en/activities/banach-center/conferences/22-appliedtop), poster on 'Topological data analysis for papillae classificaton'
 - June 2022: Attended ATMCS10 in Oxford
