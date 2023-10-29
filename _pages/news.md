@@ -3,16 +3,12 @@ permalink: /news/
 title: "News"
 classes: wide
 ---
-Upcoming travel:
-
-- 17-21 July 2023: I will be at the Women in Computational Topology workshop at EPFL, Switzerland ([WinCompTop 3](https://bernoulli.epfl.ch/programs/wincomptop-women-in-computational-topology-3/)). I am part of [Nina Otter](https://www.ninaotter.com/) 's project, where we are investigating using persistent magnitude for studying complex networks 
-- 24-28 July 2023: I will be presenting a poster as part of [TAG-DS](https://www.tagds.com/events/conference-workshops/tag-ml23) at ICML
-- 31 July - 5 August: I will be presenting a poster at [TDA week](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, as part of ICIAM 2023
 
 News:
 
+- August 2023: I will be starting a Data Science internship at Google
 - June 2023: Our paper 'Metric Space Magnitude and Generalisation in Neural Networks' was accepted as the [TAG-DS](https://www.tagds.com/events/conference-workshops/tag-ml23) at ICML 2023
-- April 2023: I will be joining [Bastian Rieck](https://bastian.rieck.me/) 's [AIDOS group](https://aidos.group/) at Helmholtz Zentrum Munich. I am funded by the [EpiCrossBorders](https://www.helmholtzresearchschool-epigenetics.org/about-us/epicrossborders-international-helmholtz-edinburgh-research-school-for-epigenetics/index.html) programme and 
+- April 2023: I will be joining [Bastian Rieck](https://bastian.rieck.me/) 's [AIDOS group](https://aidos.group/) at Helmholtz Zentrum Munich for 3 months. I am funded by the [EpiCrossBorders](https://www.helmholtzresearchschool-epigenetics.org/about-us/epicrossborders-international-helmholtz-edinburgh-research-school-for-epigenetics/index.html) programme and the CDT in Biomedical AI.
 - December 2022: Our paper 'Euler characteristic surfaces' has officially been published in Foundations of Data Science, part of the special issue on 'Topological methods in data analysis, machine learning and artificial intelligence'
 - June 2022: New preprint on ['Differentially private shapley values for data evaluation'](https://arxiv.org/abs/2206.00511) is out on arXiv!
 - September 2021: Our paper 'Euler characteristic surfaces' was accepted at Foundations of Data Science, AIMS journal as part of the special issue on 'Topological methods in data analysis, machine learning and artificial intelligence'!

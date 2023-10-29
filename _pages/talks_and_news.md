@@ -4,11 +4,12 @@ title: "Talks and posters"
 classes: wide
 ---
 Upcoming travel:
-- 17-21 July 2023: I will be at the Women in Computational Topology workshop at EPFL, Switzerland ([WinCompTop 3](https://bernoulli.epfl.ch/programs/wincomptop-women-in-computational-topology-3/)). I am part of [Nina Otter](https://www.ninaotter.com/) 's project, where we are investigating using persistent magnitude for studying complex networks 
-- 24-28 July 2023: I will be presenting a poster as part of [TAG-DS](https://www.tagds.com/events/conference-workshops/tag-ml23) at ICML
-- 31 July - 5 August: I will be presenting a poster at [TDA week](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, as part of ICIAM 2023
+
 
 Recently attended conferences and talks/posters:
+- August 2023: Poster at [TDA week](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, as part of ICIAM 2023
+- July 2023: Poster as part of [TAG-DS](https://www.tagds.com/events/conference-workshops/tag-ml23) at ICML, Honolulu, Hawaii
+- July 2023: Women in Computational Topology workshop at EPFL, Switzerland ([WinCompTop 3](https://bernoulli.epfl.ch/programs/wincomptop-women-in-computational-topology-3/)). I am part of [Nina Otter](https://www.ninaotter.com/) 's project, where we are investigating using persistent magnitude for studying complex networks
 - May 2023: Talk at EpiCrossBorders symposium, Munich
 - September 2022: Poster at [Topology of Data](https://www.mat.uniroma2.it/Eventi/2022/Topoldata/topoldata.php) in Rome
 - July 2022: Attended the [Applied topology conference in Bedlewo](https://www.impan.pl/en/activities/banach-center/conferences/22-appliedtop), poster on 'Topological data analysis for papillae classificaton'
