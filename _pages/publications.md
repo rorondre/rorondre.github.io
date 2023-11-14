@@ -27,4 +27,6 @@ Preprints:
 
 3. Beltramo, G., **Andreeva, R.**, Giarratano, Y., Bernabeu, M. O., Sarkar, R., & Skraba, P. (2021). [Euler characteristic surfaces.](https://arxiv.org/abs/2102.08260) arXiv preprint arXiv:2102.08260.
 
-4. Watson, L., **Andreeva, R.**, Yang, H. T., & Sarkar, R. (2022). [Differentially Private Shapley Values for Data Evaluation.](https://arxiv.org/abs/2206.00511#:~:text=The%20Shapley%20value%20has%20been,and%20involve%20the%20entire%20dataset.) arXiv preprint arXiv:2206.00511.
+4. Watson, L., **Andreeva, R.**, Yang, H. T., & Sarkar, R. (2022). [Differentially Private Shapley Values for Data Evaluation.](https://arxiv.org/abs/2206.00511) arXiv preprint arXiv:2206.00511.
+
+5. Watson, L., Kujawa, Z., **Andreeva, R.**, Yang, H. T., Elahi, T., & Sarkar, R. (2023). [Accelerated Shapley Value Approximation for Data Evaluation.](https://arxiv.org/abs/2311.05346)  arXiv preprint arXiv:2311.05346.
