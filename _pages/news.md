@@ -6,6 +6,7 @@ classes: wide
 
 News:
 
+- November 2023: Our paper 'Machine learning and Topological data analysis identify unique features of human papillae in 3D scans' has been accepted for publication at Scientific Reports!
 - August 2023: I will be starting a Data Science internship at Google
 - June 2023: Our paper 'Metric Space Magnitude and Generalisation in Neural Networks' was accepted as the [TAG-DS](https://www.tagds.com/events/conference-workshops/tag-ml23) at ICML 2023
 - April 2023: I will be joining [Bastian Rieck](https://bastian.rieck.me/) 's [AIDOS group](https://aidos.group/) at Helmholtz Zentrum Munich for 3 months. I am funded by the [EpiCrossBorders](https://www.helmholtzresearchschool-epigenetics.org/about-us/epicrossborders-international-helmholtz-edinburgh-research-school-for-epigenetics/index.html) programme and the CDT in Biomedical AI.
