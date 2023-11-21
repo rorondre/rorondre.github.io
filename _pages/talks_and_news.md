@@ -4,7 +4,7 @@ title: "Talks and posters"
 classes: wide
 ---
 Upcoming travel:
-
+- December 2023: Talk at [Magnitude 2023](https://sites.google.com/view/magnitude2023/home?authuser=0) in Osaka, Japan
 
 Recently attended conferences and talks/posters:
 - August 2023: Poster at [TDA week](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, as part of ICIAM 2023

@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Rayna Andreeva"
   avatar : "/assets/images/bio-photo-final.jpg"
-  bio    : "PhD student in TDA, previously data scientist and software engineer at JP Morgan"
+  bio    : "PhD student in TDA, previously intern at Google and data scientist and software engineer at JP Morgan"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
