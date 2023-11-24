@@ -10,7 +10,7 @@ Papers:
 
 2. **Andreeva, R.**, Limbeck, K., Rieck, B. & Sarkar, R. (2023). [Metric Space Magnitude and Generalisation in Neural Networks.](https://arxiv.org/abs/2305.05611) Accepted for publication at 2nd Annual TAG in Machine Learning, ICML, 2023
 
-3. Beltramo, G., Skraba, P., **Andreeva, R.**, Sarkar, R., Giarratano, Y., & Bernabeu, M. O. (2021). [Euler characteristic surfaces.](https://www.aimsciences.org/article/doi/10.3934/fods.2021027) Foundations of Data Science, doi: 10.3934/fods.2021027
+3. Beltramo, G., Skraba, P., **Andreeva, R.**, Sarkar, R., Giarratano, Y., & Bernabeu, M. O. (2021). [Euler characteristic surfaces.](https://www.aimsciences.org/article/doi/10.3934/fods.2021027) Foundations of Data Science, doi: 10.3934/fods.2021027 . It seems that this is no longer open access, so here is the updated version in the [university repository](https://www.pure.ed.ac.uk/ws/portalfiles/portal/241421040/Euler_characteristic_surfaces.pdf)
 
 4. **Andreeva, R.**, Fontanella, A., Giarratano, Y., & Bernabeu, M. O. (2020, October). [DR detection using optical coherence tomography angiography (OCTA): a transfer learning approach with robustness analysis.](https://www.research.ed.ac.uk/en/publications/dr-detection-using-optical-coherence-tomography-angiography-octa-) In International Workshop on Ophthalmic Medical Image Analysis (pp. 11-20). Springer, Cham. Here is the version in the [university repository](https://www.pure.ed.ac.uk/ws/portalfiles/portal/217540503/DR_Detection_Using_Optical_Coherence_Tomography_Angiography.pdf)
 
