@@ -6,6 +6,7 @@ classes: wide
 
 News:
 
+- December 2023: The Guardian wrote an [article](https://www.theguardian.com/science/2023/dec/14/a-matter-of-taste-food-preferences-may-be-influenced-by-our-unique-tongue-prints) about our [tongue paper]((https://www.nature.com/articles/s41598-023-46535-9))! 
 - November 2023: Our paper 'Machine learning and Topological data analysis identify unique features of human papillae in 3D scans' has been accepted for publication at Scientific Reports!
 - August 2023: I will be starting a Data Science internship at Google
 - June 2023: Our paper 'Metric Space Magnitude and Generalisation in Neural Networks' was accepted as the [TAG-DS](https://www.tagds.com/events/conference-workshops/tag-ml23) at ICML 2023

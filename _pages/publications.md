@@ -6,7 +6,7 @@ classes: wide
 
 Papers:
 
-1. **Andreeva, R.**, Sarkar, A. and Sarkar, R., 2023. [Machine learning and Topological data analysis identify unique features of human papillae in 3D scans.](https://arxiv.org/abs/2307.06255) Accepted for publication at Nature Scientific Reports
+1. **Andreeva, R.**, Sarkar, A. and Sarkar, R., 2023. [Machine learning and Topological data analysis identify unique features of human papillae in 3D scans.](https://www.nature.com/articles/s41598-023-46535-9) Scientific Reports 13 (1), 21529, 2023
 
 2. **Andreeva, R.**, Limbeck, K., Rieck, B. & Sarkar, R. (2023). [Metric Space Magnitude and Generalisation in Neural Networks.](https://arxiv.org/abs/2305.05611) Accepted for publication at 2nd Annual TAG in Machine Learning, ICML, 2023
 
